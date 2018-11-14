@@ -1,0 +1,49 @@
+\documentclass{beamer}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\usetikzlibrary{arrows.meta}
+\usetikzlibrary{backgrounds,matrix,fadings,calc,positioning,decorations.pathreplacing,decorations.markings,arrows.meta,shapes,shapes.multipart}
+\usetikzlibrary{patterns,math,quotes,positioning,angles}
+\usetikzlibrary{spy}
+\usepackage{pgfplots}
+\usepgfplotslibrary{colormaps}
+\usepackage{xcolor}
+\usepackage{chemfig}
+\usepackage{fontawesome}
+\usepackage{amsmath}
+\usepackage{subfiles}
+\usepackage{shellesc}
+% Fur Makros mit Key-Value-Pairs
+\usepackage{keycommand}
+\usepackage[mode=buildnew]{standalone} % requires -shell-escape
+\usepackage[decimalsymbol=comma, per-mode=fraction]{siunitx}
+\usepgfplotslibrary{fillbetween}
+\usetikzlibrary{external}
+\tikzexternalize[prefix=tikzpictures/]
+\usepackage[version=4]{mhchem}
+\usepackage{enumerate}
+%\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{siunitx}
+\usepackage{chemfig}
+\usepackage{amsmath}
+\usepackage[version=4]{mhchem}
+\usepackage[utf8]{inputenc}
+
+\usetheme{Berlin}
+\usecolortheme{default}
+
+\title{Landau-Niveaus und Quanten-Hall-Effekt in Graphen}
+%\subtitle{}
+\author[Hermann B\"ottcher]{Hermann B\"ottcher}
+\institute{Universit\"at Konstanz}
+\date[Konstanz, 22/11/2018]{22/11/2018}
+
+\begin{document}
+
+  \frame{\maketitle}
+
+  \subfile{slides/slide_1.tex}
+
+
+\end{document}
