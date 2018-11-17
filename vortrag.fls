@@ -603,6 +603,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT /home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/graphics/UniKonstanz_Logo.pdf
+INPUT /home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/graphics/UniKonstanz_Logo.pdf
+INPUT /home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/graphics/UniKonstanz_Logo.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss9.tfm
