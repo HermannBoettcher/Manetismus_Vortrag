@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.11)  17 NOV 2018 12:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.11)  17 NOV 2018 12:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -3024,22 +3024,22 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation2}) 
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.18   \end{frame}
+l.22   \end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.18   \end{frame}
+l.22   \end{frame}
                   
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 18.
-LaTeX Font Info:    No file OMScmss.fd. on input line 18.
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 22.
+LaTeX Font Info:    No file OMScmss.fd. on input line 22.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 18.
+(Font)              for symbol `textbullet' on input line 22.
 
 )
 \tf@nav=\write7
@@ -3079,15 +3079,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 49515 strings out of 492982
- 1171375 string characters out of 6134895
- 1394906 words of memory out of 5000000
- 52214 multiletter control sequences out of 15000+600000
- 538137 words of font info for 51 fonts, out of 8000000 for 9000
+ 49533 strings out of 492982
+ 1171622 string characters out of 6134895
+ 1395906 words of memory out of 5000000
+ 52230 multiletter control sequences out of 15000+600000
+ 542130 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,15n,98p,10390b,1059s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on /home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/vortrag.pdf (3 pages, 59099 bytes).
+Output written on /home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/vortrag.pdf (3 pages, 60137 bytes).
 PDF statistics:
  147 PDF objects out of 1000 (max. 8388607)
  112 compressed objects within 2 object streams
