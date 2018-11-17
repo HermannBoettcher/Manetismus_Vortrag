@@ -1,0 +1,61 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{geim2007}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AKGKSN}{%
+         family={A.\bibnamedelima K.\bibnamedelima Geim},
+         familyi={A\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+         given={K.\bibnamedelima S.\bibnamedelima Novoselov},
+         giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AKGKSN1}
+    \strng{fullhash}{AKGKSN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    Graphene is a rapidly rising star on the horizon of materials science and
+  condensed-matter physics. This strictly two-dimensional material exhibits
+  exceptionally high crystal and electronic quality, and, despite its short
+  history, has already revealed a cornucopia of new physics and potential
+  applications, which are briefl y discussed here. Whereas one can be certain
+  of the realness of applications only when commercial products appear,
+  graphene no longer requires any further proof of its importance in terms of
+  fundamental physics. Owing to its unusual electronic spectrum, graphene has
+  led to the emergence of a new paradigm of ‘relativistic’ condensed-matter
+  physics, where quantum relativistic phenomena, some of which are unobservable
+  in high-energy physics, can now be mimicked and tested in table-top
+  experiments. More generally, graphene represents a conceptually new class of
+  materials that are only one atom thick, and, on this basis, offers new
+  inroads into low-dimensional physics that has never ceased to surprise and
+  continues to provide a fertile ground for applications.%
+    }
+    \field{title}{The rise of graphene}
+    \field{volume}{6}
+    \field{journaltitle}{nature materials}
+    \field{month}{03}
+    \field{year}{2007}
+  \endentry
+\enddatalist
+\endinput
