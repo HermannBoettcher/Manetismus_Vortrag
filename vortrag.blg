@@ -20,45 +20,88 @@ Database file #1: vortrag-blx.bib
 Database file #2: bib.bib
 Biblatex version: 3.8
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2633 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2633 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2633 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2633 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2637 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2643 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2647 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2647 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2651 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2657 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2661 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2661 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2701 of file biblatex.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 2 entries,
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2749 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2749 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2749 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2749 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2749 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2749 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2749 of file biblatex.bst
+Too many commas in name 1 of "A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim" for entry castro2009
+while executing---line 2749 of file biblatex.bst
+You've used 3 entries,
             6268 wiz_defined-function locations,
-            1185 strings with 9733 characters,
-and the built_in function-call counts, 6689 in all, are:
-= -- 446
-> -- 141
-< -- 29
-+ -- 104
-- -- 48
-* -- 484
-:= -- 770
+            1192 strings with 10788 characters,
+and the built_in function-call counts, 15476 in all, are:
+= -- 1162
+> -- 261
+< -- 61
++ -- 254
+- -- 93
+* -- 1281
+:= -- 1682
 add.period$ -- 0
-call.type$ -- 2
-change.case$ -- 10
-chr.to.int$ -- 36
-cite$ -- 2
-duplicate$ -- 437
-empty$ -- 680
-format.name$ -- 47
-if$ -- 1452
+call.type$ -- 3
+change.case$ -- 20
+chr.to.int$ -- 42
+cite$ -- 4
+duplicate$ -- 1039
+empty$ -- 1558
+format.name$ -- 115
+if$ -- 3309
 int.to.chr$ -- 0
-int.to.str$ -- 2
+int.to.str$ -- 4
 missing$ -- 0
-newline$ -- 45
-num.names$ -- 41
-pop$ -- 361
+newline$ -- 78
+num.names$ -- 82
+pop$ -- 698
 preamble$ -- 1
-purify$ -- 12
+purify$ -- 27
 quote$ -- 0
-skip$ -- 220
+skip$ -- 393
 stack$ -- 0
-substring$ -- 957
-swap$ -- 134
-text.length$ -- 40
-text.prefix$ -- 1
+substring$ -- 2621
+swap$ -- 291
+text.length$ -- 71
+text.prefix$ -- 2
 top$ -- 1
-type$ -- 56
+type$ -- 90
 warning$ -- 0
-while$ -- 86
+while$ -- 157
 width$ -- 0
-write$ -- 44
+write$ -- 76
+(There were 21 error messages)

@@ -1,16 +1,31 @@
 \documentclass[../defence.tex]{subfiles}
 \begin{document}
 
-  \begin{frame}{Quanten Hall Effekt (QHE) II}
-    \begin{block}{Der Hamiltonian für zwei Lagen Graphen}
+  \begin{frame}{Annormaler ganzzahliger Quanten Hall Effekt (QHE) in Graphen I}
+    \pause
+    \begin{block}{Leitfähigkeitstensorkomponenten}
       \begin{equation*}
-        \OP{H}_{2}=\hbar v_\mathrm{F}
-          \begin{bmatrix}
-            0 & (k_x - ik_y)^2 \\
-            (k_x+ ik_y)^2 & 0
-          \end{bmatrix}
+        \rho_{xx}=\frac{\sigma_{xx}}{\sigma_{xx}^2+\sigma_{xy}^2},\quad \rho_{xy}=\frac{\sigma_{xy}}{\sigma_{xx}^2+\sigma{xy}^2}
       \end{equation*}
+      $\sigma_{xx}(\rho_{xx})$-longitudinale Komponente, $sigma_{xy}(\rho_{xy})$-Hall Komponente
     \end{block}
+    \pause
+    \begin{block}{Chemisches Potential in Region von}
+      \pause
+      \begin{itemize}
+        \item lokalisierten Zuständen $\rightarrow$ $\sigma_{xx}=0$ $\rightarrow$ $\rho_{xx}=0$, $\rho_{xy}=\frac{1}{\sigma_{xy}}$
+        \pause
+        \item delokalisierten Zuständen $\rightarrow$ $\sigma_{xx}\ne 0$
+      \end{itemize}
+    \end{block}
+    \note{
+      \begin{itemize}
+        \item Leitfähigkeitstensorkomponenten - $sigma$-Leitfähigkeit, $\rho$-Wiederstand
+        \item $xx$-longitudinale Komponente, $xy$-Hall Komponente
+        \item Lokalisierte Zustände $\rightarrow$ $\sigma_{xx}=0$
+        \item Delokalisierte Zustände $\rightarrow$ $\sigma_{xx}\ne 0$
+      \end{itemize}
+    }
   \end{frame}
 
 \end{document}

@@ -1,25 +1,28 @@
 \documentclass[../defence.tex]{subfiles}
 \begin{document}
 
-  \begin{frame}{Quanten Hall Effekt (QHE) I}
-    \begin{block}{Ganzzahliger Quanten Hall Effekt}
-      \begin{itemize}
-        \item charakteristisch für Monolagen-Graphen
-        \item Äquidistante Stufen  der Hall-Leitfähigkeit $\sigma_{xy}$
-        \item Verschiebung um $1/2$ im Vergleich zum normalen QHE
-        \item $\sigma_{xy}=\pm 4e^2/h (N+1/2)$, $N$-Landauniveau
-      \end{itemize}
-    \end{block}
-    \begin{alertblock}{Quantisierung des elektronischen Spektrums}
+  \begin{frame}{Landauniveaus in Graphen I}
+    \begin{block}{\textit{Normale} Landayniveaus}
       \begin{equation*}
-        E_N=\pm v_\mathrm{F}\sqrt{2e \hbar BN}
+        E_n=\left( n+\frac{1}{2}\right)\hbar \omega_c
       \end{equation*}
-      \textbf{Es existiert ein quantisiertes Niveau bei $N=0$, geteilt von Elektronen und Löchern.}
-    \end{alertblock}
+    \end{block}
+    \begin{block}{Monolage}
+      \begin{equation*}
+        E_n=\mathrm{sgn}(n)\sqrt{2e\hbar v_f^2 |n| B}
+      \end{equation*}
+    \end{block}
+    \begin{block}{Doppellage}
+      \begin{equation*}
+        E_n=\mathrm{sgn}(n)\hbar \omega_c\sqrt{|n|(|n|+1)}
+      \end{equation*}
+    \end{block}
     \note{
-      \begin{itemize}
-        \item $\pm$ respektive für Elektron oder Loch
-      \end{itemize}
+    \begin{itemize}
+      \item \textit{Normales} Landauniveau: Translationsenergie in Feldrichtung weggelassen!
+      \item Energie relativ zum Dirac-Punkt gemessen (da, wo Leitungsband und Valenzband sich berühren)
+      \item Bei Monolage und Doppellage: $E_n(n=0)=0$! Existenz eines null Energie Niveaus
+    \end{itemize}
     }
   \end{frame}
 

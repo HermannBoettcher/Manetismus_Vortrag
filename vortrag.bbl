@@ -17,6 +17,54 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global}
+  \entry{castro2009}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AHCNNMRPKSNFG}{%
+         family={A.\bibnamedelima H. Castro\bibnamedelima Neto},
+         familyi={A\bibinitperiod\bibinitdelim H\bibinitperiod
+  C\bibinitperiod\bibinitdelim N\bibinitperiod},
+         suffix={F.\bibnamedelima Guinea},
+         suffixi={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+         given={N.\bibnamedelima M. R. Peres K. S.\bibnamedelima Novoselov},
+         giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod R\bibinitperiod
+  P\bibinitperiod K\bibinitperiod S\bibinitperiod\bibinitdelim
+  N\bibinitperiod},
+      }}%
+      {{hash=GAK}{%
+         family={Geim},
+         familyi={G\bibinitperiod},
+         given={A.\bibnamedelima K.},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AHCNFGNMRPKSNGAK1}
+    \strng{fullhash}{AHCNFGNMRPKSNGAK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    This article reviews the basic theoretical aspects of graphene, a
+  one-atom-thick allotrope of carbon, with unusual two-dimensional Dirac-like
+  electronic excitations. The Dirac electrons can be controlled by application
+  of external electric and magnetic fields, or by altering sample geometry
+  and/or topology. The Dirac electrons behave in unusual ways in tunneling,
+  confinement, and the integer quantum Hall effect. The electronic properties
+  of graphene stacks are discussed and vary with stacking order and number of
+  layers. Edge !surface" states in graphene depend on the edge termination
+  !zigzag or armchair" and affect the physical properties of nanoribbons.
+  Different types of disorder modify the Dirac equation leading to unusual
+  spectroscopic and transport properties. The effects of electron-electron and
+  electron-phonon interactions in single layer and multilayer graphene are also
+  presented.%
+    }
+    \field{title}{The electronic properties of graphene}
+    \field{volume}{81}
+    \field{journaltitle}{Reviews of modern physics}
+    \field{month}{01}
+    \field{year}{2009}
+  \endentry
+
   \entry{geim2007}{article}{}
     \name{author}{1}{}{%
       {{hash=AKGKSN}{%
