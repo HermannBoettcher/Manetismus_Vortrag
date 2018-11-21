@@ -105,5 +105,35 @@
     \field{month}{03}
     \field{year}{2007}
   \endentry
+
+  \entry{gross}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RGAM}{%
+         family={Rudolf\bibnamedelima Gross},
+         familyi={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+         given={Achim\bibnamedelima Marx},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=RGAM}{%
+         family={Rudolf\bibnamedelima Gross},
+         familyi={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+         given={Achim\bibnamedelima Marx},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {De Gruyter}%
+    }
+    \strng{namehash}{RGAM1}
+    \strng{fullhash}{RGAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{Festkörperphysik}
+    \field{year}{2018}
+  \endentry
 \enddatalist
 \endinput

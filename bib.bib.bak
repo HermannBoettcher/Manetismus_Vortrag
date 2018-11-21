@@ -1,12 +1,41 @@
 % Encoding: UTF-8
 
 @Article{geim2007,
-  author  = {A. K. Geim, K. S. Novoselov},
-  title   = {The rise of graphene},
-  journal = {nature materials},
-  year    = {2007},
-  volume  = {6},
-  month   = {03},
+  author   = {A. K. Geim, K. S. Novoselov},
+  title    = {The rise of graphene},
+  journal  = {nature materials},
+  year     = {2007},
+  volume   = {6},
+  month    = {03},
+  abstract = {Graphene is a rapidly rising star on the horizon of materials science and condensed-matter physics.
+This strictly two-dimensional material exhibits exceptionally high crystal and electronic quality, and,
+despite its short history, has already revealed a cornucopia of new physics and potential applications,
+which are briefl y discussed here. Whereas one can be certain of the realness of applications only
+when commercial products appear, graphene no longer requires any further proof of its importance
+in terms of fundamental physics. Owing to its unusual electronic spectrum, graphene has led to the
+emergence of a new paradigm of ‘relativistic’ condensed-matter physics, where quantum relativistic
+phenomena, some of which are unobservable in high-energy physics, can now be mimicked and
+tested in table-top experiments. More generally, graphene represents a conceptually new class of
+materials that are only one atom thick, and, on this basis, offers new inroads into low-dimensional
+physics that has never ceased to surprise and continues to provide a fertile ground for applications.},
 }
 
+@Article{castro2009,
+  author   = {A. H. Castro Neto, F. Guinea, N. M. R. Peres, K. S. Novoselov and A. K. Geim},
+  title    = {The electronic properties of graphene},
+  journal  = {Reviews of modern physics},
+  year     = {2009},
+  volume   = {81},
+  month    = {01},
+  abstract = {This article reviews the basic theoretical aspects of graphene, a one-atom-thick allotrope of carbon,
+with unusual two-dimensional Dirac-like electronic excitations. The Dirac electrons can be controlled
+by application of external electric and magnetic fields, or by altering sample geometry and/or topology.
+The Dirac electrons behave in unusual ways in tunneling, confinement, and the integer quantum Hall
+effect. The electronic properties of graphene stacks are discussed and vary with stacking order and
+number of layers. Edge !surface" states in graphene depend on the edge termination !zigzag or
+armchair" and affect the physical properties of nanoribbons. Different types of disorder modify the
+Dirac equation leading to unusual spectroscopic and transport properties. The effects of
+electron-electron and electron-phonon interactions in single layer and multilayer graphene are also
+presented.},
+}
 @Comment{jabref-meta: databaseType:bibtex;}
