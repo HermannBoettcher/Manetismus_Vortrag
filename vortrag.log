@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.11)  21 NOV 2018 13:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.11)  21 NOV 2018 15:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1797,13 +1797,22 @@ Package csquotes Info: Option 'babel' depreciated.
 Package csquotes Info: Enabling multilingual quotes.
 Package csquotes Info: Redefining alias 'german' -> 'german/quotes'.
 ) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/jkcommands.tex)
-\pgfpages@box@1=\box113
-\pgfpages@box@2=\box114
- (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeBerlin.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthememiniframes.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerectangles.sty))
+
+/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/vortrag.tex:40: Package xkeyval Error: `none' undefined in families `beamer@option'.
+
+See the xkeyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \setbeameroption{none}
+                           
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeBerlin.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthememiniframes.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerectangles.sty))
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2017/12/19 v3.10 biblatex localization (PK/JW/AB)
 )
 Package csquotes Info: Checking for multilingual support...
@@ -1869,7 +1878,7 @@ LaTeX Font Info:    ... okay on input line 51.
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count494
 \scratchdimen=\dimen341
-\scratchbox=\box115
+\scratchbox=\box113
 \nofMPsegments=\count495
 \nofMParguments=\count496
 \everyMPshowfont=\toks58
@@ -1890,7 +1899,7 @@ Package grfext Info: Graphics extension search list:
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box116
+\AtBeginShipoutBox=\box114
 Package hyperref Info: Link coloring OFF on input line 51.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -3227,43 +3236,334 @@ File: graphics/UniKonstanz_Logo.pdf Graphic file (type pdf)
 <use graphics/UniKonstanz_Logo.pdf>
 Package pdftex.def Info: graphics/UniKonstanz_Logo.pdf  used on input line 53.
 (pdftex.def)             Requested size: 147.95442pt x 56.9055pt.
- (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_01.tex [2
+ [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}pdfTeX warning (ext4): destination with the same identifier (name{Navigation1}) has been already used, duplicate ignored
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/graphics/UniKonstanz_Logo.pdf>] (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_01.tex [2
 
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.9   \end{frame}
-                 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_02.tex [3
 
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.9   \end{frame}
-                 
+] [4
 
- </home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/graphics/UniKonstanz_Logo.pdf>]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_02.tex [3
+] [5
 
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation2}) has been already used, duplicate ignored
+] [6
 
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.27   \end{frame}
-                  pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+] [7
 
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.27   \end{frame}
-                  
+] [8
+
+]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_03.tex
+<images/graphit.png, id=261, 490.08093pt x 419.31656pt>
+File: images/graphit.png Graphic file (type png)
+<use images/graphit.png>
+Package pdftex.def Info: images/graphit.png  used on input line 21.
+(pdftex.def)             Requested size: 215.10292pt x 184.03917pt.
+
+Overfull \hbox (122.91597pt too wide) detected at line 21
+[][][][][][][][][][][] [][][][][][][]
+ []
+
+[9
+
+ </home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/images/graphit.png>]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_04.tex [10
+
+] [11
+
+] [12
+
+] [13
+
+] [14
+
+]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_05.tex [15
+
+] [16
+
+] [17
+
+] [18
+
+] [19
+
+] [20
+
+] [21
+
+]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_06.tex [22
+
+] [23
+
+] [24
+
+] [25
+
+] [26
+
+]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_07.tex [27
+
+] [28
+
+] [29
+
+] [30
+
+] [31
+
+] [32
+
+]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_071.tex
+<images/landau_parabeln.png, id=912, 590.205pt x 444.15938pt>
+File: images/landau_parabeln.png Graphic file (type png)
+<use images/landau_parabeln.png>
+Package pdftex.def Info: images/landau_parabeln.png  used on input line 25.
+(pdftex.def)             Requested size: 138.28038pt x 104.05893pt.
+ [33
+
+ </home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/images/landau_parabeln.png>]
+File: images/landau_parabeln.png Graphic file (type png)
+<use images/landau_parabeln.png>
+Package pdftex.def Info: images/landau_parabeln.png  used on input line 25.
+(pdftex.def)             Requested size: 138.28038pt x 104.05893pt.
+ [34
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 27.
-LaTeX Font Info:    No file OMScmss.fd. on input line 27.
+File: images/landau_parabeln.png Graphic file (type png)
+<use images/landau_parabeln.png>
+Package pdftex.def Info: images/landau_parabeln.png  used on input line 25.
+(pdftex.def)             Requested size: 138.28038pt x 104.05893pt.
+ [35
+
+]
+File: images/landau_parabeln.png Graphic file (type png)
+<use images/landau_parabeln.png>
+Package pdftex.def Info: images/landau_parabeln.png  used on input line 25.
+(pdftex.def)             Requested size: 138.28038pt x 104.05893pt.
+ [36
+
+]
+File: images/landau_parabeln.png Graphic file (type png)
+<use images/landau_parabeln.png>
+Package pdftex.def Info: images/landau_parabeln.png  used on input line 25.
+(pdftex.def)             Requested size: 138.28038pt x 104.05893pt.
+ [37
+
+]
+File: images/landau_parabeln.png Graphic file (type png)
+<use images/landau_parabeln.png>
+Package pdftex.def Info: images/landau_parabeln.png  used on input line 25.
+(pdftex.def)             Requested size: 138.28038pt x 104.05893pt.
+ [38
+
+]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_072.tex
+<images/kraum.png, id=1079, 790.45313pt x 831.105pt>
+File: images/kraum.png Graphic file (type png)
+<use images/kraum.png>
+Package pdftex.def Info: images/kraum.png  used on input line 13.
+(pdftex.def)             Requested size: 153.64494pt x 161.53853pt.
+<images/landau_cylinder.png, id=1081, 580.41844pt x 534.49687pt>
+File: images/landau_cylinder.png Graphic file (type png)
+<use images/landau_cylinder.png>
+Package pdftex.def Info: images/landau_cylinder.png  used on input line 13.
+(pdftex.def)             Requested size: 153.64494pt x 141.48602pt.
+ [39
+
+ </home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/images/kraum.png> </home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/images/landau_cylinder.png>])
+(/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_08.tex
+Overfull \vbox (7.81697pt too high) detected at line 27
+ []
+
+[40
+
+]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_0801.tex
+
+pdfTeX warning: pdflatex (file /home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/images/landau_dirac.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images/landau_dirac.pdf, id=1138, 185.43378pt x 157.96214pt>
+File: images/landau_dirac.pdf Graphic file (type pdf)
+<use images/landau_dirac.pdf>
+Package pdftex.def Info: images/landau_dirac.pdf  used on input line 18.
+(pdftex.def)             Requested size: 204.85992pt x 174.52054pt.
+
+Overfull \hbox (102.42998pt too wide) detected at line 18
+[][][][][][][][][][][] [][][][][][][]
+ []
+
+[41
+
+ </home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/images/landau_dirac.pdf>]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_081.tex
+<images/bandstruktur.png, id=1278, 639.89063pt x 336.50719pt>
+File: images/bandstruktur.png Graphic file (type png)
+<use images/bandstruktur.png>
+Package pdftex.def Info: images/bandstruktur.png  used on input line 14.
+(pdftex.def)             Requested size: 307.28987pt x 161.59862pt.
+ [42
+
+ </home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/images/bandstruktur.png>]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_082.tex [43
+
+]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_09.tex [44
+
+] [45
+
+] [46
+
+] [47
+
+] [48
+
+]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_10.tex
+<images/laughlin.png, id=1467, 376.40625pt x 318.43968pt>
+File: images/laughlin.png Graphic file (type png)
+<use images/laughlin.png>
+Package pdftex.def Info: images/laughlin.png  used on input line 32.
+(pdftex.def)             Requested size: 153.64494pt x 129.98775pt.
+ [49
+
+ </home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/images/laughlin.png>]
+File: images/laughlin.png Graphic file (type png)
+<use images/laughlin.png>
+Package pdftex.def Info: images/laughlin.png  used on input line 32.
+(pdftex.def)             Requested size: 153.64494pt x 129.98775pt.
+ [50
+
+]
+File: images/laughlin.png Graphic file (type png)
+<use images/laughlin.png>
+Package pdftex.def Info: images/laughlin.png  used on input line 32.
+(pdftex.def)             Requested size: 153.64494pt x 129.98775pt.
+ [51
+
+]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_11.tex
+LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 32.
+ (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
+File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
+)
+Overfull \vbox (3.9037pt too high) detected at line 32
+ []
+
+[52
+
+]
+Overfull \vbox (3.9037pt too high) detected at line 32
+ []
+
+[53
+
+]
+Overfull \vbox (3.9037pt too high) detected at line 32
+ []
+
+[54
+
+]
+Overfull \vbox (3.9037pt too high) detected at line 32
+ []
+
+[55
+
+]
+Overfull \vbox (3.9037pt too high) detected at line 32
+ []
+
+[56
+
+]
+Overfull \vbox (3.9037pt too high) detected at line 32
+ []
+
+[57
+
+]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_12.tex
+<images/qhe.png, id=1712, 752.8125pt x 743.02594pt>
+File: images/qhe.png Graphic file (type png)
+<use images/qhe.png>
+Package pdftex.def Info: images/qhe.png  used on input line 28.
+(pdftex.def)             Requested size: 153.64494pt x 151.64104pt.
+ [58
+
+ </home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/images/qhe.png>]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_13.tex [59
+
+]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_14.tex
+
+pdfTeX warning: pdflatex (file /home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/images/bilayer_qhe.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images/bilayer_qhe.pdf, id=1767, 150.11282pt x 158.94281pt>
+File: images/bilayer_qhe.pdf Graphic file (type pdf)
+<use images/bilayer_qhe.pdf>
+Package pdftex.def Info: images/bilayer_qhe.pdf  used on input line 24.
+(pdftex.def)             Requested size: 153.64494pt x 162.6846pt.
+[60
+
+ </home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/images/bilayer_qhe.pdf>]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_15.tex
+
+pdfTeX warning: pdflatex (file /home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/images/bilayer_production.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images/bilayer_production.pdf, id=1887, 141.28284pt x 139.3205pt>
+File: images/bilayer_production.pdf Graphic file (type pdf)
+<use images/bilayer_production.pdf>
+Package pdftex.def Info: images/bilayer_production.pdf  used on input line 20.
+(pdftex.def)             Requested size: 153.64494pt x 151.51193pt.
 
 
-LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 27.
+pdfTeX warning: pdflatex (file /home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/images/angle_dependence_bilayer.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images/angle_dependence_bilayer.pdf, id=1889, 135.39584pt x 185.43378pt>
+File: images/angle_dependence_bilayer.pdf Graphic file (type pdf)
+<use images/angle_dependence_bilayer.pdf>
+Package pdftex.def Info: images/angle_dependence_bilayer.pdf  used on input line 20.
+(pdftex.def)             Requested size: 102.42996pt x 140.28882pt.
+[61
 
-[4
+ </home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/images/bilayer_production.pdf> </home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/images/angle_dependence_bilayer.pdf
 
-pdfTeX warning (ext4): destination with the same i
+pdfTeX warning: pdflatex (file /home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/images/angle_dependence_bilayer.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]) (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/slides/slide_16.tex
+Underfull \hbox (badness 10000) detected at line 10
+[][][][][][][][][]
+ []
+
+[62
+
+])
+\tf@nav=\write9
+\openout9 = `vortrag.nav'.
+
+\tf@toc=\write10
+\openout10 = `vortrag.toc'.
+
+\tf@snm=\write11
+\openout11 = `vortrag.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
+ (/home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/vortrag.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
+Package rerunfilecheck Info: File `vortrag.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package logreq Info: Writing requests to 'vortrag.run.xml'.
+\openout1 = `vortrag.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 57207 strings out of 492982
+ 1306516 string characters out of 6134895
+ 1852015 words of memory out of 5000000
+ 59637 multiletter control sequences out of 15000+600000
+ 540600 words of font info for 60 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 64i,15n,98p,10390b,1822s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{cite.0@sab2018} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@castro2009} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@li2007} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@gross} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@geim2007} has been referenced but does not exist, replaced by a fixed one
+
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on /home/chajia/Documents/Studies/Physik/Magnetismus/Vortrag/vortrag.pdf (62 pages, 4821729 bytes).
+PDF statistics:
+ 2143 PDF objects out of 2487 (max. 8388607)
+ 1886 compressed objects within 19 object streams
+ 130 named destinations out of 1000 (max. 500000)
+ 199 words of extra memory for PDF output out of 10000 (max. 10000000)
+

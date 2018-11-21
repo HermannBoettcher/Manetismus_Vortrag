@@ -106,6 +106,29 @@
     \field{year}{2007}
   \endentry
 
+  \entry{li2007}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GLEYA}{%
+         family={Guohong\bibnamedelima Li},
+         familyi={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+         given={Eva Y.\bibnamedelima Andrei},
+         giveni={E\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GLEYA1}
+    \strng{fullhash}{GLEYA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Observation of Landau levels of Dirac fermions in graphite}
+    \field{volume}{3}
+    \field{journaltitle}{nature physics}
+    \field{month}{07}
+    \field{year}{2007}
+  \endentry
+
   \entry{gross}{book}{}
     \name{author}{1}{}{%
       {{hash=RGAM}{%
@@ -133,6 +156,35 @@
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{title}{Festkörperphysik}
+    \field{year}{2018}
+  \endentry
+
+  \entry{sab2018}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SSJTFFVECHTKATJKYDMFEV}{%
+         family={Sabina\bibnamedelima Simon},
+         familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+         suffix={Elena\bibnamedelima Voloshina},
+         suffixi={E\bibinitperiod\bibinitdelim V\bibinitperiod},
+         given={Julia Tesch Felix Förschner Vivien Enenkel Charlotte Herbig
+  Timo Knispel Alexander Tries Jörg Kröger Yuriy Dedkov Mikhail\bibnamedelima
+  Fonin},
+         giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod F\bibinitperiod
+  F\bibinitperiod V\bibinitperiod E\bibinitperiod C\bibinitperiod
+  H\bibinitperiod T\bibinitperiod K\bibinitperiod A\bibinitperiod
+  T\bibinitperiod J\bibinitperiod K\bibinitperiod Y\bibinitperiod
+  D\bibinitperiod M\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SSEVJTFFVECHTKATJKYDMF1}
+    \strng{fullhash}{SSEVJTFFVECHTKATJKYDMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Layer-by-Layer Decoupling of Twisted Graphene Sheets
+  Epitaxially Grown on a Metal Substrate}
+    \field{journaltitle}{small-journal}
     \field{year}{2018}
   \endentry
 \enddatalist

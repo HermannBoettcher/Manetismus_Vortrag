@@ -1,27 +1,24 @@
 \documentclass[../defence.tex]{subfiles}
 \begin{document}
 
-  \begin{frame}{Annormaler ganzzahliger Quanten Hall Effekt (QHE) in Graphen I}
-
-    \begin{block}{}
-      \begin{itemize}
-        \begin{itemize}
-        \item Es existiert ein null Energie Landauniveau
-        \item charakteristisch für Monolagen-Graphen
-        \item Äquidistante Stufen  der Hall-Leitfähigkeit $\sigma_{xy}$
-        \item Verschiebung um $1/2$ im Vergleich zum normalen QHE
-        \item $\sigma_{xy}=\pm 4e^2/h (N+1/2)$, $N$-Landauniveau
-      \end{itemize}
-    \end{block}
-    \begin{alertblock}{Quantisierung des elektronischen Spektrums}
-      \begin{equation*}
-        E_N=\pm v_\mathrm{F}\sqrt{2e \hbar BN}
-      \end{equation*}
-      \textbf{Es existiert ein quantisiertes Niveau bei $N=0$, geteilt von Elektronen und Löchern.}
-    \end{alertblock}
+  \begin{frame}{Ganzzahliger Quanten Hall Effekt (QHE) in bischichtigem Graphen II}
+    \begin{columns}[onlytextwidth, T]
+      \column{\dimexpr\linewidth / 6 * 3}
+        \includegraphics[width=\linewidth]{images/bilayer_qhe.pdf}
+      \column{\dimexpr\linewidth / 6 * 3}
+        \cite{geim2007}
+        \begin{block}{Electrischer Feld Effekt}
+          \begin{itemize}
+            \item Durch \textit{dopen} wird der Dirac-Punkt verschoben
+            \item Entartung wird aufgehoben und die Doppelstufe verschwindet
+          \end{itemize}
+        \end{block}
+    \end{columns}
     \note{
       \begin{itemize}
-        \item $\pm$ respektive für Elektron oder Loch
+        \item Stufen für bischichtiges Graphen
+        \item Doppelstufe wegen Entartung von $n=0,1$
+        \item Durch \textit{Dopen} wird Dirac-Punkt verschoben und Entartung verschwindet $\rightarrow$ elektrische Feld-Effekt
       \end{itemize}
     }
   \end{frame}
